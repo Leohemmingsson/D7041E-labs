@@ -5,3 +5,5 @@
 
 ## Contact us
 Leo Hemmingsson - leohem-0@student.ltu.se
+Suad Huseynli - suahus-0@student.ltu.se
+
